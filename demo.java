@@ -1,5 +1,13 @@
 class demo
 {
+ void DEPOSITE()
+ { 
+  ....
+ }
+ void WITHDRAW()
+ { 
+  ....
+ }
 p.s.void main()
 {
  ....
